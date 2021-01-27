@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name":"Yifeng Zhang",
+    "occupation":"software developer & artificial intelligence engineer",
+    "description":"I am currently studying computer science at University of California, San Diego. Personally, I am keen on the recommender system and deep reinforcement learning",
+    "image":"me.jpg",
+    "bio":"I am currently studying computer science at University of California, San Diego. Personally, I am keen on the recommender system and deep reinforcement learning.",
+    "contactmessage":"Feel free to contact me!",
+    "email": "yiz569@ucsd.edu",
+    "phone": "858-405-8963",
+    "address":{
+      "street":"5215 Fiore Terrace A210",
+      "city":"San Diego",
+      "state":"California",
+      "zip": "92122"
+    },
+    "website": "http://www.yifengzhang.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yifeng-zhang-516952138/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/yiz569",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/yifeng_zhangg/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/yiz569",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are my skills!",
+    "education":[
+      {
+        "school":"University of California, San Diego",
+        "degree":"B.S. in Computer Science, Minor in Mathematics",
+        "graduated":"Expected June 2020",
+        "description":""
+      },
+      {
+        "school": "High School Attached to Shanghai Normal University",
+        "degree": "Science Honor Class",
+        "graduated": "June 2016",
+        "description": ""
+      }
+    ],
+    "work":[
+      {
+        "company":"Deloitte China",
+        "title":"Summer Intern",
+        "years":"July 2018 - September 2018",
+        "description":"Collected financial data and files from the database of the customer company. Processed millions of financial data with python pandas and excel. Received “Exceed Expectation” review from Accountant in Charge."
+      },
+      {
+        "company":"UCSD Computer Science and Engineering",
+        "title":"Academic Tutor",
+        "years":"September 2018 - Present",
+        "description":"Attended weekly lectures and staff meetings. Helped students with their programming assignments during lab hours. Proctored and graded students’ midterm and final exams."
+      },
+      {
+        "company": "Chinese Students and Scholars Association",
+        "title": "Outreach Director",
+        "years": "March 2017 - March 2019",
+        "description": "Did business negotiation with local 50+ businesses including Chase and Verizon. Managed 20 people in outreach department and held weekly meetings."
+      },
+      {
+        "company": "Furnitrade, a Web App for Used Furniture Trading",
+        "title": "Senior System Analyst",
+        "years": "September 2018 - December 2018",
+        "description": "Worked in an agile student team to develop a web app for students to trade used furniture. Worked as the senior system analyst and developed the website with Flask framework. Implemented APIs with MongoDB database and tested them using Postman ADE. Implemented the frontend with React, javascript and CSS."
+      },
+      {
+        "company": "Recommender System on Amazon and Rent The Runway Datasets",
+        "title": "Data Engineer",
+        "years": "September 2018 - December 2018",
+        "description": "Combined logistic regressions and support vector machines to build category classifier on Amazon's 200,000 trading data, ranked 2nd out of 700 on Kaggle. Used tf-idf weighting to do natural language processing on Rent The Runway's customers' reviews. Collaborated filtering algorithms to do purchase predictions based on customers' purchasing history."
+      },
+      {
+        "company": "Artificial Intelligence Projects",
+        "title": "Algorithm Engineer",
+        "years": "January 2019 - March 2019",
+        "description": "Implemented DFS, BFS, UCS, A star algorithms for path search with python and C++. Implemented AI on playing game 2048 with alpha-beta pruning and optimized reward function. Implemented Monte Carlo Tree Search algorithm on the game Gomoku. Implemented Monte Carlo Evaluation, Temporal Difference and Q-learning on the game blackjack. Implemented constraint solving algorithms and a CNF converter to solve sudoku with SAT Solvers."
+      },
+      {
+        "company": "Robot and Game Programming",
+        "title": "Computer Engineer",
+        "years": "January 2016 - June 2017",
+        "description": "Programmed a robot car to discover surrounding environment freely with different sensors. Designed the motion trail of the robot car to draw number 0 to 9 on paper with C++ language. Developed the game 2048 with java and implemented the GUI with JavaFX."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"C",
+        "level":"60%"
+      },
+      {
+        "name":"Machine learning and artificial intelligence",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"FTP",
+        "category":"Furnitrade, a Web App for Used Furniture Trading",
+        "image":"FTP.jpg",
+        "url":"https://www.youtube.com/watch?v=7hTTqTOZBfY&t=76s"
+      },
+      {
+        "title":"2048 AI Player",
+        "category":"The AI player for 2048 who can always reach a 4096 tile",
+        "image":"2048.jpg",
+        "url":"https://github.com/yiz569"
+      },
+      {
+        "title":"Recommender System",
+        "category":"Combined logistic regressions and support vector machines to build a recommender system",
+        "image":"rtrw.jpg",
+        "url":"https://github.com/yiz569"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"非淡泊无以明志，非宁静无以致远",
+        "user":"《诫子书》"
+      },
+      {
+        "text":"学而不思则罔，思而不学则殆",
+        "user":"《论语》"
+      }
+    ]
+  }
+}
